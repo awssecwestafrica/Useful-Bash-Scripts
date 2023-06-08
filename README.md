@@ -10,3 +10,4 @@ installs:
 4. JENKINS
 
 ### jenkins-plugin-installer.sh
+This script installs the plugins listed in the plugins.txt file
