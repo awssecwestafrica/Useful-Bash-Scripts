@@ -18,4 +18,5 @@ sudo yum-config-manager --add-repo https://download.docker.com/linux/centos/dock
 sudo yum install -y docker-ce docker-ce-cli containerd.io docker-compose-plugin --allowerasing
 
 
-echo "----------------------installer Jenkins-------------------------"
+echo "----------------------installer Maven-------------------------"
+sudo yum install maven -y
