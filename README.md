@@ -8,3 +8,5 @@ installs:
 2. Java
 3. MAVEN
 4. JENKINS
+
+### jenkins-plugin-installer.sh
